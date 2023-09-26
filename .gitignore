@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea/
+/01-todo-list-react/my-app/node_modules/
